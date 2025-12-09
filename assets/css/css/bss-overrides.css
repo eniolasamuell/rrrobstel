@@ -119,3 +119,82 @@
   }
 }
 
+#mainNav {
+  background: #ffffff;
+}
+
+.navbar-toggler {
+  background: var(--bs-body-color);
+}
+
+span {
+}
+
+#navbarResponsive {
+  background: var(--bs-primary);
+}
+
+.masthead-subheading {
+}
+
+.masthead-heading {
+  color: var(--bs-primary);
+}
+
+span {
+  color: #ffffff;
+}
+
+#services {
+  font-family: 'Space Grotesk';
+}
+
+.section-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  color: #294ca9;
+}
+
+.fas.fa-comments.fa-stack-1x.fa-inverse {
+  margin-top: 0px;
+}
+
+p {
+  color: #ffffff;
+  background: #294ca9;
+  font-size: 22px;
+}
+
+.fas.fa-people-group.fa-stack-1x.fa-inverse {
+  margin-top: 0px;
+}
+
+p {
+  background: var(--bs-primary);
+  color: #fff;
+  font-size: 26px;
+}
+
+p {
+  background: #294ca9;
+  color: #fff;
+  font-size: 22px;
+}
+
+#portfolio {
+  background: var(--bs-primary);
+}
+
+.container {
+}
+
+.portfolio-hover {
+  background: var(--bs-border-color-translucent);
+}
+
+.portfolio-caption-heading {
+  color: var(--bs-body-color);
+}
+
+span {
+}
+
